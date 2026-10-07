@@ -57,7 +57,7 @@ A fuzzing campaign against the model-file parser of an open-source C++ machine-l
 ## Education
 
 - **New York University, Tandon School of Engineering** · M.S. Cybersecurity, expected May 2028 · Merit Scholarship
-- **Florida State University** · Computer Science, May 2026 · magna cum laude
+- **Florida State University** · B.A. Computer Science, May 2026 · Magna Cum Laude
 
 ## Get in touch
 
