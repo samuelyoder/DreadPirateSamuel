@@ -8,7 +8,7 @@ I'm a graduate student working toward offensive security and red team roles. Mos
 
 ## Right now
 
-- Member of [OSIRIS Lab](https://osiris.cyber.nyu.edu/), NYU's student-run offensive security research lab (reverse engineering, binary exploitation, vulnerability research), and training to join its infrastructure team
+- Member of the OSIRIS Lab, NYU's student-run offensive security research lab (reverse engineering, binary exploitation, vulnerability research), and training to join its infrastructure team
 - Organizing staff for the 2026 CSAW CTF Qualifiers
 - Waiting on an upstream fix for a vulnerability I reported, so I can publish the harness and writeup
 - Studying for CompTIA Security+ (December 2026)
