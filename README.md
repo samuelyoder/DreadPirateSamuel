@@ -2,8 +2,6 @@
 
 **M.S. Cybersecurity @ NYU Tandon · Offensive Security · OSIRIS Lab**
 
-I'm a graduate student working toward offensive security and red team roles.
-
 [Portfolio](https://samuelyoder.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/samueldyoder/) · sam061704@icloud.com · sy5017@nyu.edu
 
 ## Right now
