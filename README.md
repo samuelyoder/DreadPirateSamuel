@@ -80,7 +80,7 @@ A loadable kernel module in C that runs an elevator scheduler inside the Linux k
 ## Education
 
 - **New York University, Tandon School of Engineering** · M.S. Cybersecurity, expected May 2028 · Merit Scholarship
-- **Florida State University** · B.A. Computer Science, May 2026 · Magna Cum Laude
+- **Florida State University** · B.A. Computer Science, May 2026 · Magna Cum Laude· Florida Bright Futures Scholarship
 
 ## Get in touch
 
