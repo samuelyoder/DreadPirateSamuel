@@ -84,4 +84,4 @@ A loadable kernel module in C that runs an elevator scheduler inside the Linux k
 
 ## Get in touch
 
-I'm looking for Summer 2027 internships in penetration testing, red teaming, vulnerability research and application security. Email is the fastest way to reach me: sam061704@icloud.com
+I'm looking for Summer 2027 internships in penetration testing, red teaming, vulnerability research and application security. Email is the fastest way to reach me: sam061704@icloud.com · sy5017@nyu.edu
